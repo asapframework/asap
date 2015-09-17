@@ -9,5 +9,10 @@
             "email": "andrefarzat@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-0": { "Asap": "" }
+    },
+    "require": {
+        "michelf/php-markdown": "^1.5"
+    }
 }
