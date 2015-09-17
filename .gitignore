@@ -1,3 +1,9 @@
+# Composer
 composer.phar
 
-/vendor/
+# Ignored folders
+vendor/
+cache/
+
+# Editors
+.idea
