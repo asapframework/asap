@@ -8,8 +8,16 @@ class AsapConfig
     /**
      * @var string
      */
+
     public $rootDir;
+    /**
+     * @var string
+     */
     public $asapDir;
+
+    /**
+     * @var string
+     */
     public $cacheDir;
 
     function __construct()
